@@ -14,6 +14,8 @@ Interpretable spatial multi-omics data integration and dimension reduction with 
    :maxdepth: 2
    :caption: Contents:
 
+   main_simulation.ipynb
+
 
 
 Indices and tables
