@@ -14,7 +14,7 @@ Interpretable spatial multi-omics data integration and dimension reduction with 
    :maxdepth: 2
    :caption: Contents:
 
-   Installation.md
+   Installation
    Tutorial_simulation
    Tutorial_realworld
 
