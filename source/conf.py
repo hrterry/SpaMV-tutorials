@@ -27,3 +27,10 @@ exclude_patterns = []
 # html_theme = 'alabaster'
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
+html_context = {
+    'display_github': True,             # 启用 GitHub 链接
+    'github_user': 'hrterry',
+    'github_repo': 'SpaMV-tutorials',
+    'github_version': 'master',           # 分支名，如 main 或 master
+    'conf_py_path': '/source/',           # 文档目录在仓库中的路径，以 `/` 结尾
+}
