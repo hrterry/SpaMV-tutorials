@@ -18,7 +18,7 @@ Interpretable spatial multi-omics data integration and dimension reduction with 
    Tutorial_simulation
    Tutorial_realworld
 
-.. image:: source/_static/figure.pdf
+.. image:: source/_static/diagram.png
    :width: 80%
    :align: center
 Overview
