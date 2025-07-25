@@ -29,7 +29,7 @@ html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 html_context = {
     'display_github': True,             # 启用 GitHub 链接
-    'github_user': 'Enderlogic',
+    'github_user': 'hrterry',
     'github_repo': 'SpaMV-tutorials',
     'github_version': 'master',
     'conf_py_path': '/source/',
